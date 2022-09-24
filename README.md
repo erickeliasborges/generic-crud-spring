@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: CRUD genérico com Quarkus!</h1>
+<h1 align="center">:file_cabinet: Autenticação jwt e CRUD genérico com Spring Boot!</h1>
 
 ## :memo: Descrição
 Projeto base com autenticação jwt para CRUD's genéricos com as classes abstratas Controller, Service e Repository.
